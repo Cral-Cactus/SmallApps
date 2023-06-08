@@ -1,0 +1,8 @@
+D:\aaa\testt\SmallApps\DiamondGame\bin\Debug\DiamondGame.exe.config
+D:\aaa\testt\SmallApps\DiamondGame\bin\Debug\DiamondGame.exe
+D:\aaa\testt\SmallApps\DiamondGame\bin\Debug\DiamondGame.pdb
+D:\aaa\testt\SmallApps\DiamondGame\obj\Debug\DiamondGame.csproj.AssemblyReference.cache
+D:\aaa\testt\SmallApps\DiamondGame\obj\Debug\DiamondGame.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SmallApps\DiamondGame\obj\Debug\DiamondGame.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SmallApps\DiamondGame\obj\Debug\DiamondGame.exe
+D:\aaa\testt\SmallApps\DiamondGame\obj\Debug\DiamondGame.pdb

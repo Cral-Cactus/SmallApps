@@ -1,0 +1,8 @@
+D:\aaa\testt\SmallApps\CountTimesFound\bin\Debug\CountTimesFound.exe.config
+D:\aaa\testt\SmallApps\CountTimesFound\bin\Debug\CountTimesFound.exe
+D:\aaa\testt\SmallApps\CountTimesFound\bin\Debug\CountTimesFound.pdb
+D:\aaa\testt\SmallApps\CountTimesFound\obj\Debug\CountTimesFound.csproj.AssemblyReference.cache
+D:\aaa\testt\SmallApps\CountTimesFound\obj\Debug\CountTimesFound.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SmallApps\CountTimesFound\obj\Debug\CountTimesFound.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SmallApps\CountTimesFound\obj\Debug\CountTimesFound.exe
+D:\aaa\testt\SmallApps\CountTimesFound\obj\Debug\CountTimesFound.pdb

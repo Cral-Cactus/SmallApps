@@ -1,0 +1,8 @@
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\bin\Debug\SumPositiveAndNegative.exe.config
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\bin\Debug\SumPositiveAndNegative.exe
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\bin\Debug\SumPositiveAndNegative.pdb
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\obj\Debug\SumPositiveAndNegative.csproj.AssemblyReference.cache
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\obj\Debug\SumPositiveAndNegative.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\obj\Debug\SumPositiveAndNegative.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\obj\Debug\SumPositiveAndNegative.exe
+D:\aaa\testt\SmallApps\SumPositiveAndNegative\obj\Debug\SumPositiveAndNegative.pdb

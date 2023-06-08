@@ -1,0 +1,8 @@
+D:\aaa\testt\SmallApps\PrintNumIndex\obj\Debug\PrintNumIndex.csproj.AssemblyReference.cache
+D:\aaa\testt\SmallApps\PrintNumIndex\obj\Debug\PrintNumIndex.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SmallApps\PrintNumIndex\obj\Debug\PrintNumIndex.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SmallApps\PrintNumIndex\bin\Debug\PrintNumIndex.exe.config
+D:\aaa\testt\SmallApps\PrintNumIndex\bin\Debug\PrintNumIndex.exe
+D:\aaa\testt\SmallApps\PrintNumIndex\bin\Debug\PrintNumIndex.pdb
+D:\aaa\testt\SmallApps\PrintNumIndex\obj\Debug\PrintNumIndex.exe
+D:\aaa\testt\SmallApps\PrintNumIndex\obj\Debug\PrintNumIndex.pdb
