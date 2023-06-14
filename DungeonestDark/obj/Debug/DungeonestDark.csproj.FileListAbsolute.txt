@@ -1,0 +1,8 @@
+D:\aaa\testt\SmallApps\DungeonestDark\bin\Debug\DungeonestDark.exe.config
+D:\aaa\testt\SmallApps\DungeonestDark\bin\Debug\DungeonestDark.exe
+D:\aaa\testt\SmallApps\DungeonestDark\bin\Debug\DungeonestDark.pdb
+D:\aaa\testt\SmallApps\DungeonestDark\obj\Debug\DungeonestDark.csproj.AssemblyReference.cache
+D:\aaa\testt\SmallApps\DungeonestDark\obj\Debug\DungeonestDark.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SmallApps\DungeonestDark\obj\Debug\DungeonestDark.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SmallApps\DungeonestDark\obj\Debug\DungeonestDark.exe
+D:\aaa\testt\SmallApps\DungeonestDark\obj\Debug\DungeonestDark.pdb
