@@ -8,10 +8,9 @@ namespace DiamondGame
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Console.Write("Width: ");
-            int width = int.Parse(Console.ReadLine());
-            Console.Write("Height: ");
-            int height = int.Parse(Console.ReadLine());
+            int width, height;
+
+            (width, height) = GetFieldBounds();
 
             string[,] field = CreateField(width, height);
 
@@ -59,6 +58,16 @@ namespace DiamondGame
 
             Console.WriteLine($"Collected Diamonds: {(allDmCount - CountDiamonds(field)) / (double)allDmCount * 100.0:f2}%");
             Console.WriteLine("Game Over!");
+        }
+
+        static (int width, int height) GetFieldBounds()
+        {
+            Console.Write("Width: ");
+            int width = int.Parse(Console.ReadLine());
+            Console.Write("Height: ");
+            int height = int.Parse(Console.ReadLine());
+
+            return (Math.Max(10, width), Math.Max(10, height));
         }
 
         static string[,] CreateField(int width, int height)
